@@ -162,6 +162,7 @@ Individually installable Agent Skills collections, rather than one client-specif
 - [Antigravity Context Meter](https://github.com/Dunphil692/antigravity-context-meter) - Real-time 1:1 Cursor-style context meter & zero-loss session migration for Google Antigravity (Desktop HUD & IDE Extension).
 - [Antigravity Workspace Template](https://github.com/study8677/antigravity-workspace-template) - Multi-agent codebase knowledge graph generator with context-aware planning and automatic scope management — turns codebases into coherent agent workspaces.
 - [Archcore](https://github.com/archcore-ai/archcore) - Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project context in Git.
+- [Aria-Icons](https://icons.leularia.com/) - MCP server and CLI for searching 1.3M+ SVG icons and writing them into projects as source components.
 - [AREX-Skill](https://github.com/VectorSpaceLab/AREX-Skill) - A library of 5,000+ verified, executable skills distilled from ML repositories for coding and research agents.
 - [ArmorCodex](https://github.com/armoriq/armorCodex) - Intent-based security for Codex with MCP plan registration, policy gating, CSRG cryptographic proofs, and audit logging on `bash` and `apply_patch`.
 - [assay](https://github.com/awss1i/assay) - Deterministic QA skill and plugin that drives a generated web page in a real browser and reports what broke, across fifteen coding harnesses.
